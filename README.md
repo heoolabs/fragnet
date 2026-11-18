@@ -3,7 +3,7 @@
 
 **fragnet** is a lightweight, cross-platform SOCKS5 proxy designed to bypass DPI strictly in `userspace` without root privileges.
 
-***!!!!!!!!!!!!!!!!!! THIS DOESN'T WORK BECAUSE IT'S THE FIRST VERSION OF THE SCRIPT AND I NEED TO RELEASE MORE FUNCTIONS FOR IT TO WORK PROPERLY. STABILITY IS NOT GUARANTEED. ***
+**!!!!!!!!!!!!!!!!!! THIS DOESN'T WORK BECAUSE IT'S THE FIRST VERSION OF THE SCRIPT AND I NEED TO RELEASE MORE FUNCTIONS FOR IT TO WORK PROPERLY. STABILITY IS NOT GUARANTEED. **
 
 ## Features
 * **Userspace only:** Works without kernel drivers. You can use any third-party app to create a TUN interface.
